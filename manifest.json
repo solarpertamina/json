@@ -1,0 +1,53 @@
+{
+  "name": "shasolo",
+  "short_name": "shasolo",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "https://www.shasolo.xyz",
+  "start_url": "https://www.shasolo.xyz",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-tKJoyIdJwyI/XgNgThm5nbI/AAAAAAAAAI4/mRZwbi_AuvEmlTieUSdDRrjbmgtyWl8bwCLcBGAsYHQ/s1600/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Z8JFvEMCs5A/XgNgUX5LIXI/AAAAAAAAAI8/GwY-Dvy1dyMbUyf5useWXUKkVFkzqg60ACLcBGAsYHQ/s1600/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-RyE4UcH26H0/XgNgRK6sR1I/AAAAAAAAAIg/KOLTQ3goTE0TpQIUBd8DDIX3ySYMZ2_ZQCLcBGAsYHQ/s1600/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-LmglAsrCWFY/XgNgRZJizoI/AAAAAAAAAIk/BG4USS5Vb8orB0gI4Q7h6C2oyiWqZX02wCLcBGAsYHQ/s1600/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-i6iJfi6HcVQ/XgNgRggK1GI/AAAAAAAAAIo/jR0K0SjVpwMHsFDJyxth0ch0ySLeByeQQCLcBGAsYHQ/s1600/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ejStqBwRmng/XgNgS2bBhtI/AAAAAAAAAIs/qJ6g-1D9mJkSZZHcLaIkUrVu1hGpZlrogCLcBGAsYHQ/s1600/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-KTopRvXjup0/XgNgTUG6DKI/AAAAAAAAAI0/V7ebESntbAMwWpLMLasYTL_9Yz2z7diXwCLcBGAsYHQ/s1600/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-BYRdptlelaQ/XgNgTfTvrZI/AAAAAAAAAIw/pv2ZH2GrM2EIFCoJZS28M5C8sHawm1wMACLcBGAsYHQ/s1600/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
