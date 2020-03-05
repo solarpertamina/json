@@ -1,50 +1,50 @@
 {
-  "name": "shasolo",
-  "short_name": "shasolo",
+  "name": "solarpertamina",
+  "short_name": "solarpertamina",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "https://www.shasolo.xyz",
-  "start_url": "https://www.shasolo.xyz",
+  "Scope": "https://www.solarpertamina.com",
+  "start_url": "https://www.solarpertamina.com",
   "icons": [
     {
-      "src": "https://1.bp.blogspot.com/-9kYKsNPUkhI/XgcX41Rji_I/AAAAAAAAAd0/aNBoWa6LwNcPDsQSmyrj7kWRYmvNxN-lwCLcBGAsYHQ/s1600/icon-72x72.png",
+      "src": "https://4.bp.blogspot.com/-igYI6vQYlXg/XmCzWq_hHOI/AAAAAAAABBM/XXfF-BiyaDoieGDxVMpMi9ZAqBWcdoeBACLcBGAsYHQ/s1600/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-FI7m465jRlY/XgcX5lmd6PI/AAAAAAAAAd4/xuEA5Tmmsa4EM1tiSWLn9Ezn7ns7Xhf-QCLcBGAsYHQ/s1600/icon-96x96.png",
+      "src": "https://1.bp.blogspot.com/-6JmAy4p2SX4/XmCzXakDm0I/AAAAAAAABBQ/CRLnIZ9Y2WMH2NhIEpxz-Lg4OCZSxMQBACLcBGAsYHQ/s1600/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-Hj78pcWx2O4/XgcX05GAQ2I/AAAAAAAAAdk/ZTroS19ALjw_ckrlAM-slOPf6xSeAc9hgCLcBGAsYHQ/s1600/icon-128x128.png",
+      "src": "https://4.bp.blogspot.com/-o_0HGZDcldE/XmCzUysLkDI/AAAAAAAABA0/J5b3Wjb4Hb8cSZm7Vzk66J3NvIS2HxcdQCLcBGAsYHQ/s1600/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-VxzxxFuvkI0/XgcX06Qn8iI/AAAAAAAAAdg/YHqoHVldxu85cAj7gSPCNjWH9y4umTmbwCLcBGAsYHQ/s1600/icon-144x144.png",
+      "src": "https://1.bp.blogspot.com/-G-dkh9wBvW0/XmCzVAdNhUI/AAAAAAAABA8/L2Qv21HsmmwSPm8xJrPFj6KrCPZq-CR3gCLcBGAsYHQ/s1600/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-Zy3HRi6HoA0/XgcX0pG3oyI/AAAAAAAAAdc/cGm2ttK2necf1SfVWz0fwNLhhcVk2zT9wCLcBGAsYHQ/s1600/icon-152x152.png",
+      "src": "https://2.bp.blogspot.com/-2ltSYpa6RbA/XmCzUyi2VwI/AAAAAAAABA4/35mkahRHz_w3R3JoONbb6inGieBhzZSsQCLcBGAsYHQ/s1600/icon-152x152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-Q45GAuIIooE/XgcX2waOScI/AAAAAAAAAdo/TAi18rsA5g0ahWIqQllsLBCvhyLogaliACLcBGAsYHQ/s1600/icon-192x192.png",
+      "src": "https://1.bp.blogspot.com/-30MlzqWV86E/XmCzVzzV0mI/AAAAAAAABBA/3dznnbsr2i8_f6wSP5dPp3x9Y51l6NPzgCLcBGAsYHQ/s1600/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-bA2JaXPcKiQ/XgcX4YCgmbI/AAAAAAAAAds/FbVK2OlFKHkhPznZSKFVFK3EB_VaPM-twCLcBGAsYHQ/s1600/icon-384x384.png",
+      "src": "https://2.bp.blogspot.com/-mCQqlAZNs90/XmCzWW_K0KI/AAAAAAAABBE/nQOlOma2nS8lXPX04LDjJ5K6oSCbzxyeQCLcBGAsYHQ/s1600/icon-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-oSjJ9MjEEfk/XgcX4qBzZHI/AAAAAAAAAdw/osK1V8qQKB4BPVB4CzZLUC7591JXbcOaACLcBGAsYHQ/s1600/icon-512x512.png",
+      "src": "https://4.bp.blogspot.com/-_nq-0T6gBCk/XmCzWv3mpBI/AAAAAAAABBI/zSpLxmKxarAYAKA4VcdmgHm-hZ3qGavLACLcBGAsYHQ/s1600/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
