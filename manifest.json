@@ -12,41 +12,49 @@
       "src": "https://1.bp.blogspot.com/-0HKHpyvB5QQ/XrgY4cFS00I/AAAAAAAABRw/97wf3SPC6FoHggxAM0FxCEDiMViRwRZpgCLcBGAsYHQ/s1600/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-AlKuaufct9U/XrgY4mhq4kI/AAAAAAAABR0/dgbjMtoNynkyHPRYQT-tWiTrbYSUXemiwCLcBGAsYHQ/s1600/icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-1kK7XxtDIUE/XrgY2nrtOcI/AAAAAAAABRc/4JwQTRPDl50UpYcI80XTOoiIxzahMrDoQCLcBGAsYHQ/s1600/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-kUhJRHJpIOE/XrgY2jtLayI/AAAAAAAABRY/rQrAmpPfM6MjDLHpn9f3ujHpxC8HemG1gCLcBGAsYHQ/s1600/icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-BQ5S2f5kqnQ/XrgY20Yv3_I/AAAAAAAABRg/g2sntm1ykFYXn8QUWBYTVLxo0M2LihnJgCLcBGAsYHQ/s1600/icon-152x152.png",
       "sizes": "152x152",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-nVzjHyJgWB8/XrgY3vzRbZI/AAAAAAAABRk/o37FtxGrHkIcFsriwgBv16QRI5iMTv1vgCLcBGAsYHQ/s1600/icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-IqXqAeJtmE8/XrgY3_tGSEI/AAAAAAAABRo/1nqr6v47ZGMGLMw92h5VS0jgyXdzBRMRACLcBGAsYHQ/s320/icon-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
+      "purpose": "any maskable"
     },
     {
       "src": "https://1.bp.blogspot.com/-Uce1ieOyvtE/XrgY32ewArI/AAAAAAAABRs/eLCEM9BKfSYBohskY4_LIsnTiriOJuIQwCLcBGAsYHQ/s1600/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
+      "purpose": "any maskable"
     }
   ],
   "splash_pages": null
