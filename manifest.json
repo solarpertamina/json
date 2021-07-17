@@ -1,6 +1,6 @@
 {
     "theme_color": "#d0021b",
-    "background_color": "#d0021b",
+    "background_color": "#fff",
     "display": "standalone",
     "start_url": "https://www.solarpertamina.com/",
     "prefer_related_applications": "false",
