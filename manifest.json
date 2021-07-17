@@ -4,6 +4,7 @@
     "display": "standalone",
     "scope": "https://www.solarpertamina.com/",
     "start_url": "https://www.solarpertamina.com/",
+    "prefer_related_applications": "false",
     "name": "Solarpertamina.com",
     "short_name": "Solarpertamina.com",
     "description": "Supplier Penjual BBM Solar Industri Non Subsidi Agen Resmi Pertamina Asli, Murah Berkualitas, Legal, Aman, Ijin Lengkap, HSD, B30, Dexlite, Dex",
