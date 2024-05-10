@@ -2,7 +2,7 @@
     "theme_color": "#b51200",
     "background_color": "#fff",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "/",
     "prefer_related_applications": false,
     "name": "Solarpertamina.com",
     "short_name": "Solarpertamina.com",
