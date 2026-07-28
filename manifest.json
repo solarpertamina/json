@@ -1,36 +1,33 @@
 {
-    "theme_color": "#b51200",
-    "background_color": "#fff",
-    "display": "standalone",
-    "start_url": "https://www.solarpertamina.com/",
-    "prefer_related_applications": false,
-    "name": "Solarpertamina.com",
-    "short_name": "Solarpertamina.com",
-    "description": "Supplier Penjual BBM Solar Industri Non Subsidi Agen Resmi Pertamina Asli, Murah Berkualitas, Legal, Aman, Ijin Lengkap, HSD, B30, Dexlite, Dex",
-    "icons": [
-        {
-            "src": "https://2.bp.blogspot.com/-ucy6TJCVrFg/XsmcooRkWtI/AAAAAAAABYQ/B4y4vJO27L43yZLw20F8ScN42PR-nIT0wCK4BGAYYCw/s192/F2AAE49D-0D99-4969-80F3-671626A8607E.jpeg",
-            "sizes": "192x192",
-            "type": "image/jpg",
-            "purpose": "any"
-        },
-        {
-            "src": "https://2.bp.blogspot.com/-ucy6TJCVrFg/XsmcooRkWtI/AAAAAAAABYQ/B4y4vJO27L43yZLw20F8ScN42PR-nIT0wCK4BGAYYCw/s192/F2AAE49D-0D99-4969-80F3-671626A8607E.jpeg",
-            "sizes": "192x192",
-            "type": "image/jpg",
-            "purpose": "maskable"
-        },
-        {
-            "src": "https://2.bp.blogspot.com/-ucy6TJCVrFg/XsmcooRkWtI/AAAAAAAABYQ/B4y4vJO27L43yZLw20F8ScN42PR-nIT0wCK4BGAYYCw/s512/F2AAE49D-0D99-4969-80F3-671626A8607E.jpeg",
-            "sizes": "512x512",
-            "type": "image/jpg",
-            "purpose": "any"
-        },
-        {
-            "src": "https://2.bp.blogspot.com/-ucy6TJCVrFg/XsmcooRkWtI/AAAAAAAABYQ/B4y4vJO27L43yZLw20F8ScN42PR-nIT0wCK4BGAYYCw/s512/F2AAE49D-0D99-4969-80F3-671626A8607E.jpeg",
-            "sizes": "512x512",
-            "type": "image/jpg",
-            "purpose": "maskable"
-        }
-    ]
+  "name": "BBM Industri",
+  "short_name": "BBM Industri",
+  "description": "BBM Industri",
+  "start_url": "https://www.bbmindustri.com/",
+  "prefer_related_applications": false,
+  "scope": "https://www.bbmindustri.com/",
+  "id": "https://www.bbmindustri.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimujPhx7pRUtJaVr8F3QwMJD0pu5NspfaQbn4hQKGw3OWaC42jjPEKyT89xgRzzqIxWkmVt_eDrofTeeZExQqMJbc3yRXLLXxUgOlPVEM19FBlkhUjDLpl95C3kmtCk16s6iGLUV3U4MysLrU_4v7u-WuuBAqRTXXnqV8xumzqc_TVyHK8OECeOluOcM/s192/android-launchericon-512-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimujPhx7pRUtJaVr8F3QwMJD0pu5NspfaQbn4hQKGw3OWaC42jjPEKyT89xgRzzqIxWkmVt_eDrofTeeZExQqMJbc3yRXLLXxUgOlPVEM19FBlkhUjDLpl95C3kmtCk16s6iGLUV3U4MysLrU_4v7u-WuuBAqRTXXnqV8xumzqc_TVyHK8OECeOluOcM/s512/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimujPhx7pRUtJaVr8F3QwMJD0pu5NspfaQbn4hQKGw3OWaC42jjPEKyT89xgRzzqIxWkmVt_eDrofTeeZExQqMJbc3yRXLLXxUgOlPVEM19FBlkhUjDLpl95C3kmtCk16s6iGLUV3U4MysLrU_4v7u-WuuBAqRTXXnqV8xumzqc_TVyHK8OECeOluOcM/s512/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
 }
+
